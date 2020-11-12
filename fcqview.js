@@ -41,6 +41,7 @@ add course specific fcq breakdown too, not just the instructor one
 preview of next pane on hover if i'm having to load them anyway
 
 trim the json that gets saved
+maybe csv would be lighter weight and maybe there's a js lib that can give a decent view of a csv for searching and shit?
 
 dropdown to search manually in iframe if it fails and button to report failure? idk
 
