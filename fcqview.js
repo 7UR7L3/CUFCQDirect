@@ -25,6 +25,16 @@ table view of each too more prominently (graph is on the side)
 actually maybe just the instructor number with a mini graph on the side and if you hover it expands the graph and shows all the different scores as different coloured lines on a line chart with the averages for each metric and the lil standard deviation markers :D
 actually yeah clicking should bring up both a graph view and a table view of everything covering like most of the screen cause why not
 
+work out a loading spinner if the async doesn't fix the terrible lag
+
+settings to fix the fcq dump file(s) used, either local or by url
+settings to clear cache of fcq dump file(s) and reload the fcq data
+setting to either load fcq data on visible or load on hover
+maybe some view options idfk
+setting to query heroku for records of a given instructor name instead of dealing with the thicc json locally at all
+
+add course specific fcq breakdown too, not just the instructor one
+
 preview of next pane on hover if i'm having to load them anyway
 
 dropdown to search manually in iframe if it fails and button to report failure? idk
