@@ -4,6 +4,8 @@ Chrome extension to directly embed FCQ instructor/class scores in https://classe
 ![mk1 ugly proof screenshot](mk1uglyproof.png?raw=true "Mk1 Ugly Proof")
 (for now... it has a lot more information, just isn't crammed into pixels for eye yet)
 
+wait wtf are those bugs lmao. nice
+
 ### how
 - pulls fcq results from hardcoded source xlsx links found here https://public.tableau.com/profile/fcq.office#!/vizhome/FCQResultsViewerDownloads/FCQDownloads
 - converts spreadsheets to json with https://github.com/SheetJS/sheetjs and merges them into the same format (i chose the more recent format even though it's worse)
