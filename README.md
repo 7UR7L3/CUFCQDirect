@@ -1,8 +1,8 @@
 # CUFCQDirect
 Chrome extension to directly embed FCQ instructor/class scores in https://classes.colorado.edu/ results.
 
-(for now... it has a lot more information, just isn't crammed into pixels for eye yet)
 ![mk1 ugly proof screenshot](mk1uglyproof.png?raw=true "Mk1 Ugly Proof")
+(for now... it has a lot more information, just isn't crammed into pixels for eye yet)
 
 ### how
 - pulls fcq results from hardcoded source xlsx links found here https://public.tableau.com/profile/fcq.office#!/vizhome/FCQResultsViewerDownloads/FCQDownloads
