@@ -24,6 +24,7 @@ table view of each too more prominently (graph is on the side)
 
 actually maybe just the instructor number with a mini graph on the side and if you hover it expands the graph and shows all the different scores as different coloured lines on a line chart with the averages for each metric and the lil standard deviation markers :D
 actually yeah clicking should bring up both a graph view and a table view of everything covering like most of the screen cause why not
+and then maybe toggle boxes to show/hide each metric, with settings to toggle default metric visibility (like i never care about respect and shit ig)
 
 work out a loading spinner if the async doesn't fix the terrible lag
 
