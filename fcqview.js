@@ -32,12 +32,15 @@ settings to fix the fcq dump file(s) used, either local or by url
 settings to clear cache of fcq dump file(s) and reload the fcq data
 setting to either load fcq data on visible or load on hover
 setting for format string for i guess every string that's used, with a list of what variables they can put in the format string, pulling from any of the short info, detailed info, or fcq records
+setting to limit to the past n years of fcq data (saves storage of cached json)
 maybe some view options idfk
 setting to query heroku for records of a given instructor name instead of dealing with the thicc json locally at all
 
 add course specific fcq breakdown too, not just the instructor one
 
 preview of next pane on hover if i'm having to load them anyway
+
+trim the json that gets saved
 
 dropdown to search manually in iframe if it fails and button to report failure? idk
 */
