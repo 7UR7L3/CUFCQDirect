@@ -30,6 +30,7 @@ work out a loading spinner if the async doesn't fix the terrible lag
 settings to fix the fcq dump file(s) used, either local or by url
 settings to clear cache of fcq dump file(s) and reload the fcq data
 setting to either load fcq data on visible or load on hover
+setting for format string for i guess every string that's used, with a list of what variables they can put in the format string, pulling from any of the short info, detailed info, or fcq records
 maybe some view options idfk
 setting to query heroku for records of a given instructor name instead of dealing with the thicc json locally at all
 
