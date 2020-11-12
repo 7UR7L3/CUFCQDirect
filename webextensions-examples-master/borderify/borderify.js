@@ -6,7 +6,7 @@ function extensionStorageGet( key )
 }
 
 
-fcqData = await extensionStorageGet( "fcqJSON" ); // TODO make this async, the lag hijacks the site and it's shitty
+fcqData = await extensionStorageGet( "fcqJSON" ); // TODO make this async, the lag hijacks the site and it's shitty; spin wait at top of mutation observer callback for fcqData to get defined
 fcqData = "fcqJSON" in fcqData ? fcqData["fcqJSON"] : null;
 
 if( !fcqData )
