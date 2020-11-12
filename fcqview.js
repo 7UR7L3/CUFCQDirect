@@ -43,6 +43,8 @@ preview of next pane on hover if i'm having to load them anyway
 trim the json that gets saved
 
 dropdown to search manually in iframe if it fails and button to report failure? idk
+
+add my own site that does its own queries of the fose api and presents more info in a wider fullscreen pane with thiccer results that you can hide. so that you don't need the extension. would have to find something to mimic the unlimited storage with indexeddb or work out server queries for the profs
 */
 
 function loadScriptSync (src) { // thanks https://stackoverflow.com/a/21550322
