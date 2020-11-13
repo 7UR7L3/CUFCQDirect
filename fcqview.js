@@ -47,6 +47,8 @@ dropdown to search manually in iframe if it fails and button to report failure? 
 
 add fcq to class table in the detailed view of the course or whatevre it is when you click a course from the results pane
 
+handle unhyperlinked instructors by just putting the last name at the beginning and using a comma i guess
+
 add my own site that does its own queries of the fose api and presents more info in a wider fullscreen pane with thiccer results that you can hide. so that you don't need the extension. would have to find something to mimic the unlimited storage with indexeddb or work out server queries for the profs
 */
 
